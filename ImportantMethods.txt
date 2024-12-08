@@ -1,0 +1,4 @@
+       1. FOR GETTING -INFINITY & +INFINITY:
+            INTEGER.MIN_VALUE
+            INTEGER.MAX_VALUE
+       2. 
